@@ -1,11 +1,11 @@
 # Перифери
 ### [Демо на Netlify](https://agitated-albattani-a426e7.netlify.app/)
+[React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+Material UI
+![eCommerce](https://imgur.com/CruQXfI)
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we're going to build a fully functional eCommerce application using commerce.js. 
-
-While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive. 
+## Интернет магазин
+Работа с commerce.js, получение данных о товарах(цена, описание, фото)
+Презентация карточек продуктов/товаров
+Добавление в корзину и удаление из корзины товаров, расчет стоимости
+Форма оплаты с деталями доставки
