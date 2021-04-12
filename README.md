@@ -5,7 +5,7 @@
 
 ![MaterialUI](https://img.shields.io/badge/-Material_UI-333333?style=flat&logo=material-ui)
 
-![eCommerce](https://imgur.com/CruQXfI)
+![eCommerce](https://i.imgur.com/CruQXfI.jpg)
 
 ## Интернет магазин
 Работа с commerce.js, получение данных о товарах(цена, описание, фото)
