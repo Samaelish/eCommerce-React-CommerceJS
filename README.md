@@ -1,5 +1,5 @@
 # Перифери
-## [Демо на Netlify](https://agitated-albattani-a426e7.netlify.app/)
+## [Смотреть демо](https://e-commerce-react-commerce-js.vercel.app/)
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
