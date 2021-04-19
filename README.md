@@ -1,5 +1,4 @@
 # Перифери
-## [Смотреть демо](https://e-commerce-react-commerce-js.vercel.app/)
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
@@ -15,3 +14,4 @@
 Форма оплаты с деталями доставки
 
 ![eCommerce](https://i.imgur.com/CruQXfI.jpg)
+# [Смотреть демо](https://e-commerce-react-commerce-js.vercel.app/)
