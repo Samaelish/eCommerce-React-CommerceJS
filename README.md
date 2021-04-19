@@ -5,8 +5,6 @@
 
 ![MaterialUI](https://img.shields.io/badge/-Material_UI-333333?style=flat&logo=material-ui)
 
-![eCommerce](https://i.imgur.com/CruQXfI.jpg)
-
 ## Интернет магазин
 Работа с commerce.js, получение данных о товарах(цена, описание, фото)
 <br>
@@ -15,3 +13,5 @@
 Добавление в корзину и удаление из корзины товаров, расчет стоимости
 <br>
 Форма оплаты с деталями доставки
+
+![eCommerce](https://i.imgur.com/CruQXfI.jpg)
